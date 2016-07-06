@@ -1,0 +1,9 @@
+package com.jht.administrator.presenter;
+
+public class LoginPresenter {
+
+    public void LoginPresenter(){
+
+
+    }
+}
